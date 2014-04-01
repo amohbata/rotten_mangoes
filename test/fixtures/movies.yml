@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  director: MyString
+  reuntime_in_minutes: 1
+  description: MyText
+  poster_image_url: MyString
+  release_date: 2014-04-01 20:40:24
+
+two:
+  title: MyString
+  director: MyString
+  reuntime_in_minutes: 1
+  description: MyText
+  poster_image_url: MyString
+  release_date: 2014-04-01 20:40:24
